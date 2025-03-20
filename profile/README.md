@@ -1,4 +1,4 @@
-# ![Blockscape - Rooted in innovation, led by values]()
+# ![Blockscape - Rooted in innovation, led by values](https://github.com/user-attachments/assets/46e1e5c9-d7bf-494a-bd07-775dc679ba11)
 
 Blockscape is a team of experienced blockchain professionals based in Switzerland, committed to promoting self-custody, decentralized finance, and trustless technology through their innovative solutions and services. Founded in Switzerland, Blockscape has been actively engaged in staking technology since 2018. Today, we’re expanding our focus to support institutions with secure and seamless access to digital assets. Guided by innovation, partnership, and quality, we empower clients to participate in the future of digital finance with confidence.
 
