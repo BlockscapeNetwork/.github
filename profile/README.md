@@ -10,6 +10,6 @@ Blockscape is a team of experienced blockchain professionals based in Switzerlan
 
 We are proud to contribute to the open source community. Explore our pinned repositories below.
 
-Please refer to our **[CONTRIBUTING.md](https://github.com/BlockscapeNetwork/.github/blob/main/CONTRIBUTING.md)** for more information on how to contribute to our projects.
+Please refer to our **[CONTRIBUTING.md](https://github.com/BlockscapeNetwork/.github/blob/master/CONTRIBUTING.md)** for more information on how to contribute to our projects.
 
-For support, please refer to our **[SUPPORT.md](https://github.com/BlockscapeNetwork/.github/blob/main/SUPPORT.md)**.
+For support, please refer to our **[SUPPORT.md](https://github.com/BlockscapeNetwork/.github/blob/master/SUPPORT.md)**.

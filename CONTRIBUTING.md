@@ -19,11 +19,11 @@ If you find a bug or have a suggestion for one of our open-source projects:
 3. Provide a clear description of the issue with steps to reproduce
 4. Include information about your environment (OS, version, etc.)
 
-If you are an existing Blockscape customer, please refer to the process outlined in our **[SUPPORT.md](https://github.com/BlockscapeNetwork/.github/blob/main/SUPPORT.md)**.
+If you are an existing Blockscape customer, please refer to the process outlined in our **[SUPPORT.md](https://github.com/BlockscapeNetwork/.github/blob/master/SUPPORT.md)**.
 
 ### Security Issues
 
-Please do not report security vulnerabilities through public GitHub issues. Refer to our **[SECURITY.md](https://github.com/BlockscapeNetwork/.github/blob/main/SECURITY.md)** for instructions on how to responsibly disclose security concerns.
+Please do not report security vulnerabilities through public GitHub issues. Refer to our **[SECURITY.md](https://github.com/BlockscapeNetwork/.github/blob/master/SECURITY.md)** for instructions on how to responsibly disclose security concerns.
 
 ### Feature Requests
 

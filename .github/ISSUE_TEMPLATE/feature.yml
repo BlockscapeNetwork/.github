@@ -12,7 +12,7 @@ body:
     attributes:
       value: |
         Before submitting, please check if this feature hasn't been requested before.
-        For feature requests related to our commercial products, please refer to the process outlined in our [SUPPORT.md](https://github.com/BlockscapeNetwork/.github/blob/main/SUPPORT.md).        
+        For feature requests related to our commercial products, please refer to the process outlined in our [SUPPORT.md](https://github.com/BlockscapeNetwork/.github/blob/master/SUPPORT.md).        
   - type: textarea
     id: feature-description
     validations:
